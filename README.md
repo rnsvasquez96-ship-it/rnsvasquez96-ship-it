@@ -88,9 +88,6 @@ https://github.com/rnsvasquez96-ship-it
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnsvasquez96-ship-it\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnsvasquez96-ship-it\&layout=compact)
 
 ---
 
