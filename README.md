@@ -4,7 +4,7 @@
 💻 Software Developer | Full-Stack Developer
 📍 Batangas, Philippines
 
-I enjoy building practical software solutions across web, mobile, automation, and hardware-integrated systems. My projects involve full-stack development, REST APIs, databases, mobile applications, testing, debugging, and system integration.
+I build practical software solutions across web, mobile, automation, and hardware-integrated systems. My work includes full-stack development, REST APIs, databases, mobile applications, testing, debugging, and system integration.
 
 ## 🚀 Tech Stack
 
@@ -30,6 +30,16 @@ Docker • GitHub Actions • CI/CD • Vercel
 
 ## ⭐ Featured Projects
 
+### 🏋️ Crown Gym
+
+Full-stack gym management and POS system for managing members, memberships, trainers, check-ins, payments, and daily gym operations.
+
+**Tech:** Next.js • TypeScript • NestJS • PostgreSQL • Prisma • Docker
+
+**Highlights:** Member Management • Membership Plans • Check-ins • Payments • Dashboard • POS
+
+---
+
 ### 🏆 PickleRank
 
 Full-stack tournament management platform for managing tournaments, players, matches, and rankings.
@@ -54,40 +64,22 @@ RFID and GPS-based automated fare collection system integrating mobile applicati
 
 ---
 
-### 🏛️ Barangay Tiquiwan Document Request System
-
-Database-driven web application for managing resident document requests and administrative workflows.
-
-**Tech:** PHP • MySQL • JavaScript • HTML • CSS • Bootstrap
-
----
-
-## 🧠 Currently Learning
-
-* Advanced Full-Stack Development
-* Automated Testing
-* Docker & CI/CD
-* AWS & Cloud Fundamentals
-* System Design
-* DevOps Practices
-
----
-
 ## 🌐 Connect With Me
 
-🌍 **Portfolio:**
+🌍 **Portfolio**
 https://ranz-portfolio.vercel.app/
 
-💼 **LinkedIn:**
+💼 **LinkedIn**
 https://www.linkedin.com/in/ranz-nathaniel-vasquez-612500364/
 
-💻 **GitHub:**
+💻 **GitHub**
 https://github.com/rnsvasquez96-ship-it
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
+GitHub statistics and contribution insights coming soon.
 
 ---
 
